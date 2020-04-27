@@ -12,6 +12,7 @@
 /build
 .vscode
 .env
+firebaseConfig.js
 
 # misc
 .DS_Store
